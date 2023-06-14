@@ -145,6 +145,10 @@ body {
 .heart {
   width: 60%;
 }
+.rsp-wrap {
+  background: #ffe0e0;
+}
+
 .btn-wrap {
   width: 80%;
 }
