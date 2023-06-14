@@ -159,6 +159,7 @@ body {
 
 .restart {
   display: none;
+  font-size: 14px;
 }
 
 .show {
